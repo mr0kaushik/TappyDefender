@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tappy Defender</string>
+    <string name="play">PLAY</string>
+    <string name="high_score_btn">HIGH SCORE</string>
+    <string name="level">LEVEL</string>
+    <string name="high_score_hs">High Score</string>
+    <string name="select_level">Select Level</string>
+</resources>
