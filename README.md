@@ -4,3 +4,5 @@ Just clone and download it by clicking the download button and open it in your a
 Compile and enjoy.
 There is also a folder for direct apk version.
 Thank You (^-^)
+
+### Download App : <a href="https://drive.google.com/file/d/1d3rtB3Mjzd_FlLQYBgdYhnEApfw-Dpn2/view?usp=sharing">Click Here</a>
