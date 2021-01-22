@@ -12,7 +12,7 @@ An Android game to kill enemie's ship.
 |-----------------------------|
 | <img src = "./screenshots/tap_play.jpg" width="560" > |
 
-| Playing   | 
+| Play   | 
 |-----------------------------|
 |<img src = "./screenshots/tap_run.jpg" width="560" > |
 
