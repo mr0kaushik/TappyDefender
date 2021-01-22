@@ -1,4 +1,20 @@
 # TappyDefender
-An android game to boost your mind by destroying enemies's ship.
+An Android game to kill enemie's ship.
+```
+Java, Android Canvas
+```
 
-### Download App : <a href="https://drive.google.com/file/d/1d3rtB3Mjzd_FlLQYBgdYhnEApfw-Dpn2/view?usp=sharing">Click Here</a>
+### Wanna try ? : [Get apk](https://drive.google.com/file/d/19zGVQXV5qT86EJtxYi7Ts0r82bVPGnnz/view?usp=sharing)
+
+## Screenshots
+| Menu      | 
+|-----------------------------|
+| <img src = "./screenshots/tap_play.jpg" width="560" > |
+
+| Playing   | 
+|-----------------------------|
+|<img src = "./screenshots/tap_run.jpg" width="560" > |
+
+| Game Over | 
+|-----------------------------|
+|<img src = "./screenshots/tap_game_over.jpg" width="560" > |
